@@ -1,5 +1,5 @@
 ﻿Дополни SQL запрос, добавь условие, что из таблицы kinoteatr будут отображаться только фильмы, год выпуска до 2000
-SELECT * FROM kinoteatr
-WHERE YEAR<2000
+SELECT * FROM ....
+WHERE ....
 
 modified
