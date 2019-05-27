@@ -1,2 +1,2 @@
 ﻿Дополни SQL запрос, добавь условие, что из таблицы kinoteatr будут отображаться только zanr
-SELECT zanr ...
+SELECT zanr FROM kinoteatr
